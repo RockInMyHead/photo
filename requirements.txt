@@ -2,3 +2,5 @@ PyQt6>=6.6.0
 opencv-python>=4.9.0
 numpy>=1.26.0
 Pillow>=10.0.0
+insightface>=0.7.3
+onnxruntime>=1.16.0
